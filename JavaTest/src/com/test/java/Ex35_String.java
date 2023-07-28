@@ -5,7 +5,7 @@ public class Ex35_String {
 		
 		//Ex35_String.java
 		
-		/*
+		/*수정합니다.
 		 
 		 문자열 
 		 - 물리적으로는 참조형이지만, 약간의 값형의 성질을 가진다.
